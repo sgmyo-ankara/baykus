@@ -5,13 +5,13 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 import { getAnalytics } from "firebase/analytics";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAW_dzspyYz9P4rEiSPvnylt055y-PIwSA",
-  authDomain: "baykus-960bd.firebaseapp.com",
-  projectId: "baykus-960bd",
-  storageBucket: "baykus-960bd.firebasestorage.app",
-  messagingSenderId: "607403578684",
-  appId: "1:607403578684:web:ec5173be0e8b365210ba39",
-  measurementId: "G-T2KXRW487H"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 // 1. Uygulamayı Başlat
