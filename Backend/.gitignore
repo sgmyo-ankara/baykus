@@ -1,0 +1,13 @@
+# --- CLOUDFLARE WORKERS / NODEJS ---
+node_modules/
+.wrangler/
+.dev.vars
+dist/
+worker/
+npm-debug.log*
+
+# --- İŞLETİM SİSTEMİ ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Burayı şimdilik boş bırakıyoruz, sadece Tailwind çalışsın */
+body {
+  margin: 0;
+  padding: 0;
+}
